@@ -1,4 +1,4 @@
-# DICE GAME 🎲
+# Dice Game 🎲
 
 ## Table of contents
 
