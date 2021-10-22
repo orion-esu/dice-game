@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/orion-esu/dice-game)
-- Live Site URL: [Dice Game](https://dice-gameapp.netlify.app)
+- Live Site URL: [Live Demo](https://dice-gameapp.netlify.app)
 
 ## My process
 
