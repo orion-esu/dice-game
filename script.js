@@ -61,7 +61,7 @@ btnRoll.addEventListener('click', function () {
 
 // User holds dice
 btnHold.addEventListener('click', function () {
-  if (scores[activePlayer] < 20){
+  if (scores[activePlayer] < 100){
     // 1. Add current score to total score, display score, reset current score to 0
     scores[activePlayer] = scores[activePlayer] + currentScore;
     document.getElementById(`score--${activePlayer}`).textContent =
